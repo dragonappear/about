@@ -244,8 +244,8 @@ ul > li:before {
   color: #3a7bd5; /* 빈칸을 강조하기 위한 색상 */
 }
 
-.hello {
-  padding-top: 4rem;
+.padding-upper {
+  padding-top: 3.75rem;
 }
 
 .underline-title {
