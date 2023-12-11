@@ -244,6 +244,10 @@ ul > li:before {
   color: #3a7bd5; /* 빈칸을 강조하기 위한 색상 */
 }
 
+.hello {
+  padding-top: 4rem;
+}
+
 .underline-title {
   position: relative;
   display: inline-block; /* 밑줄의 길이를 텍스트에 맞춤 */

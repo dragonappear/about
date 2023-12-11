@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.0.0",
   "repository": "https://github.com/dragonappear/about.git",
-  "author": "dragonappear dragonappear1@gmail.com",
+  "author": "dragonappear<dragonappear1@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "parcel src/index.html",
